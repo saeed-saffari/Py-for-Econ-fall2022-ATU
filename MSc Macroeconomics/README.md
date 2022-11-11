@@ -3,7 +3,7 @@
 ## COURSE OUTLINES
 
 - **Python Setup**
-- [**Object and Data Structure Basics**]()
+- [**Object and Data Structure Basics**](https://github.com/saeed-saffari/Py-for-Econ-fall2022-ATU/blob/main/MSc%20Macroeconomics/1.%20Data%20Structure%20Basics.ipynb)
 - [**Python Statements and Functions**]() 
 - **Packages** 
   - [**NumPy and Matplotlib**]()
