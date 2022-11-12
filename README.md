@@ -19,4 +19,4 @@ We will begin with an introduction to general-purpose programming: data types, c
 ## Parts
 
 - [MSc Macroeconomics](https://github.com/saeed-saffari/Py-for-Econ-fall2022-ATU/tree/main/MSc%20Macroeconomics)
-- [MSc Planning Economics]()
+- [MSc Planning Economics](https://github.com/saeed-saffari/Py-for-Econ-fall2022-ATU/tree/main/MSc%20Planning%20Economics)
